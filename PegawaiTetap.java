@@ -1,3 +1,5 @@
+//file PegawaiTetap.java
+
 class PegawaiTetap extends Pegawai implements Kinerja {
 
     public PegawaiTetap(String nama, int usia, String jabatan) {

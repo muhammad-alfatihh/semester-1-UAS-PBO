@@ -1,6 +1,5 @@
-// Interface
+//file Pegawai.java
 
-// Kelas Induk
 class Pegawai {
 
     private String nama;

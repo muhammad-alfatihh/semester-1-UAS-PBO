@@ -1,3 +1,5 @@
+//file PegawaiKontrak.java
+
 class PegawaiKontrak extends Pegawai implements Kinerja {
 
     public PegawaiKontrak(String nama, int usia, String jabatan) {

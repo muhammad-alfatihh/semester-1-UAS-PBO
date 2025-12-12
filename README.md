@@ -1,1 +1,1 @@
-untuk menjalankan project run file Main.java
+Kalau ingin run maka run file Main.java
